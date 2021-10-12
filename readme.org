@@ -3,6 +3,6 @@
 
 * Consumer theory for cheap information
 
-These are the files associated with my job market paper, "[Consumer theory for cheap information](https://www.garygbaker.com/publication/info-consumer-theory/)."
+These are the files associated with my job market paper, "[[https://www.garygbaker.com/publication/info-consumer-theory/][Consumer theory for cheap information]]."
 
 Python simulations illustrating the main results are available as Jupyter notebooks in the "simulations" folder.
