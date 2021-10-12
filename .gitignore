@@ -25,3 +25,5 @@ oldCode/
 */_region_.*
 *.fls
 *.fdb_latexmk
+*.bib.sav
+*.bib.bak
