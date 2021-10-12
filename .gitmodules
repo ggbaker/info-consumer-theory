@@ -1,0 +1,6 @@
+[submodule "fancy-article"]
+	path = fancy-article
+	url = git@github.com:ggbaker/fancy-article
+[submodule "draft/fancy-article"]
+	path = draft/fancy-article
+	url = git@github.com:ggbaker/fancy-article
